@@ -4,7 +4,7 @@
 SmartSplit is an intelligent bill-splitting application that uses AI and OCR technology to simplify the process of splitting bills among friends, family, or colleagues. With SmartSplit, you can easily scan receipts, automatically detect items and prices, assign items to different people, and calculate each person's share including tax and tip.
 
 ## Demo of Discount Calculator
-<img src="https://github.com/github-pratik/smafrt_splitter_GDG/blob/main/Demo1.gif" alt="Demo" width="500">
+<img src="https://github.com/github-pratik/smafrt_splitter_GDG/blob/main/Demo1.gif" alt="Demo" width="700">
 
 ## Features
 - **AI-Powered Receipt Scanning**: Take a photo of your receipt and let our AI instantly recognize all items and prices
